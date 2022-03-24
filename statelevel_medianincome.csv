@@ -1,0 +1,261 @@
+state,income,year
+United States,61372,2017
+Alabama,51113,2017
+Alaska,72231,2017
+Arizona,61125,2017
+Arkansas,48829,2017
+California,69759,2017
+Colorado,74172,2017
+Connecticut,72780,2017
+Delaware,62318,2017
+D.C.,83382,2017
+Florida,53681,2017
+Georgia,57016,2017
+Hawaii,73575,2017
+Idaho,60208,2017
+Illinois,64609,2017
+Indiana,58873,2017
+Iowa,63481,2017
+Kansas,57872,2017
+Kentucky,51348,2017
+Louisiana,43903,2017
+Maine,51664,2017
+Maryland,81084,2017
+Massachusetts,73227,2017
+Michigan,57700,2017
+Minnesota,71920,2017
+Mississippi,43441,2017
+Missouri,56885,2017
+Montana,59087,2017
+Nebraska,59619,2017
+Nevada,56550,2017
+New Hampshire,74801,2017
+New Jersey,72997,2017
+New Mexico,47855,2017
+New York,62447,2017
+North Carolina,50343,2017
+North Dakota,59886,2017
+Ohio,59768,2017
+Oklahoma,55006,2017
+Oregon,64610,2017
+Pennsylvania,63173,2017
+Rhode Island,66390,2017
+South Carolina,54971,2017
+South Dakota,56894,2017
+Tennessee,55240,2017
+Texas,59295,2017
+Utah,71319,2017
+Vermont,63805,2017
+Virginia,71293,2017
+Washington,75418,2017
+West Virginia,45392,2017
+Wisconsin,63451,2017
+Wyoming,57837,2017
+United States,59039,2016
+Alabama,47221,2016
+Alaska,75723,2016
+Arizona,57100,2016
+Arkansas,45907,2016
+California,66637,2016
+Colorado,70566,2016
+Connecticut,75923,2016
+Delaware,58046,2016
+D.C.,70982,2016
+Florida,51176,2016
+Georgia,53527,2016
+Hawaii,72133,2016
+Idaho,56564,2016
+Illinois,61386,2016
+Indiana,56094,2016
+Iowa,59094,2016
+Kansas,56810,2016
+Kentucky,45369,2016
+Louisiana,42196,2016
+Maine,50856,2016
+Maryland,73760,2016
+Massachusetts,72266,2016
+Michigan,57091,2016
+Minnesota,70218,2016
+Mississippi,41099,2016
+Missouri,55016,2016
+Montana,57075,2016
+Nebraska,59374,2016
+Nevada,55431,2016
+New Hampshire,76260,2016
+New Jersey,68468,2016
+New Mexico,48451,2016
+New York,61437,2016
+North Carolina,53764,2016
+North Dakota,60184,2016
+Ohio,53985,2016
+Oklahoma,50943,2016
+Oregon,59135,2016
+Pennsylvania,60979,2016
+Rhode Island,61528,2016
+South Carolina,54336,2016
+South Dakota,57450,2016
+Tennessee,51344,2016
+Texas,58146,2016
+Utah,67481,2016
+Vermont,60837,2016
+Virginia,66451,2016
+Washington,70310,2016
+West Virginia,44354,2016
+Wisconsin,59817,2016
+Wyoming,57829,2016
+United States,56516,2015
+Alabama,44509,2015
+Alaska,75112,2015
+Arizona,52248,2015
+Arkansas,42798,2015
+California,63636,2015
+Colorado,66596,2015
+Connecticut,72889,2015
+Delaware,57756,2015
+D.C.,70071,2015
+Florida,48825,2015
+Georgia,50768,2015
+Hawaii,64514,2015
+Idaho,51624,2015
+Illinois,60413,2015
+Indiana,51983,2015
+Iowa,60855,2015
+Kansas,54865,2015
+Kentucky,42387,2015
+Louisiana,45922,2015
+Maine,50756,2015
+Maryland,73594,2015
+Massachusetts,67861,2015
+Michigan,54203,2015
+Minnesota,68730,2015
+Mississippi,40037,2015
+Missouri,59196,2015
+Montana,51395,2015
+Nebraska,60474,2015
+Nevada,52008,2015
+New Hampshire,75675,2015
+New Jersey,68357,2015
+New Mexico,45119,2015
+New York,58005,2015
+North Carolina,50797,2015
+North Dakota,57415,2015
+Ohio,53301,2015
+Oklahoma,47077,2015
+Oregon,60834,2015
+Pennsylvania,60389,2015
+Rhode Island,55701,2015
+South Carolina,46360,2015
+South Dakota,55065,2015
+Tennessee,47330,2015
+Texas,56473,2015
+Utah,66258,2015
+Vermont,59494,2015
+Virginia,61486,2015
+Washington,67243,2015
+West Virginia,42824,2015
+Wisconsin,55425,2015
+Wyoming,60925,2015
+United States,53657,2014
+Alabama,42278,2014
+Alaska,67629,2014
+Arizona,49254,2014
+Arkansas,44922,2014
+California,60487,2014
+Colorado,60940,2014
+Connecticut,70161,2014
+Delaware,57522,2014
+D.C.,68277,2014
+Florida,46140,2014
+Georgia,49555,2014
+Hawaii,71223,2014
+Idaho,53438,2014
+Illinois,54916,2014
+Indiana,48060,2014
+Iowa,57810,2014
+Kansas,53444,2014
+Kentucky,42786,2014
+Louisiana,42406,2014
+Maine,51710,2014
+Maryland,76165,2014
+Massachusetts,63151,2014
+Michigan,52005,2014
+Minnesota,67244,2014
+Mississippi,35521,2014
+Missouri,56630,2014
+Montana,51102,2014
+Nebraska,56870,2014
+Nevada,49875,2014
+New Hampshire,73397,2014
+New Jersey,65243,2014
+New Mexico,46686,2014
+New York,54310,2014
+North Carolina,46784,2014
+North Dakota,60730,2014
+Ohio,49644,2014
+Oklahoma,47199,2014
+Oregon,58875,2014
+Pennsylvania,55173,2014
+Rhode Island,58633,2014
+South Carolina,44929,2014
+South Dakota,53053,2014
+Tennessee,43716,2014
+Texas,53875,2014
+Utah,63383,2014
+Vermont,60708,2014
+Virginia,66155,2014
+Washington,59068,2014
+West Virginia,39552,2014
+Wisconsin,58080,2014
+Wyoming,55690,2014
+United States,53585,2013
+Alabama,47320,2013
+Alaska,72472,2013
+Arizona,52611,2013
+Arkansas,39376,2013
+California,60794,2013
+Colorado,67912,2013
+Connecticut,69291,2013
+Delaware,54091,2013
+D.C.,60057,2013
+Florida,48532,2013
+Georgia,46992,2013
+Hawaii,64235,2013
+Idaho,48467,2013
+Illinois,53937,2013
+Indiana,49455,2013
+Iowa,60156,2013
+Kansas,47820,2013
+Kentucky,44879,2013
+Louisiana,46425,2013
+Maine,54957,2013
+Maryland,69353,2013
+Massachusetts,62529,2013
+Michigan,56567,2013
+Minnesota,64324,2013
+Mississippi,32338,2013
+Missouri,46303,2013
+Montana,43201,2013
+Nebraska,57623,2013
+Nevada,51846,2013
+New Hampshire,69099,2013
+New Jersey,63754,2013
+New Mexico,40166,2013
+New York,49966,2013
+North Carolina,46337,2013
+North Dakota,59152,2013
+Ohio,50748,2013
+Oklahoma,46162,2013
+Oregon,48999,2013
+Pennsylvania,55156,2013
+Rhode Island,56323,2013
+South Carolina,43563,2013
+South Dakota,53413,2013
+Tennessee,43361,2013
+Texas,51406,2013
+Utah,61047,2013
+Vermont,65513,2013
+Virginia,65907,2013
+Washington,63922,2013
+West Virginia,43069,2013
+Wisconsin,51726,2013
+Wyoming,67441,2013
